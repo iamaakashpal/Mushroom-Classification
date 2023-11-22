@@ -5,3 +5,4 @@ seaborn
 matplotlib
 ipykernel
 -e .
+PyYAML
